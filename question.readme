@@ -1,0 +1,38 @@
+## Foodies Sorting Algo Prototype
+
+### DefaultSearch (No Location)
+
+Feature list in the last 1 month
+
+1. ฟีเจอร์เดิมจาก demo รอบที่แล้ว
+2. click?
+3. จำนวน content review
+4. followers
+5. จำนวน Rating
+6. ความนิยม 
+
+ได้เป็น score
+
+## Location search
+
+(text location search + near by me)
+
+1. ดึง 250 ร้าน ใกล้จุด location ที่สุด ภายใน30KM
+    1. What if there is no shops within 30KM? Will ignore this 30km for now for demo sake.
+2. Weight ระยะทาง ตามช่วงคะแนน
+    1. แบบทดสอบ แบบเป็นช่วงแล้วตั้งคะแนนเอง
+    2. [ไอเดีย] แบ่งตาม precentile ของkm. ในกลุ่ม
+3. 
+
+## คำถาม
+
+1. Official ข้อมูลมาจากตารางไหน (ตอนนี้จะignore ไปก่อน แต่ใส่กลับมาไม่ยาก (และคิดว่าทำใน backendจริงๆน่าจะดีกว่า
+2. ข้อมูล Lat lng เชื่อถือได้ 100% ไหมครับ ลองเช็คแล้วไม่ตรง 
+
+[](https://www.notion.so/f7e541c7e21741ca89bffc7d4930fa7f#53f3c378910a4e8489b8ccb353ceffff)
+
+TANAVAKATSU At LatLng: 13.750881, 100.572689 via google.
+
+In Foodies: 13.751749	100.536207
+
+เป็นไปได้ว่าอาจจะบางร้านหรือเปล่าครับ (ในcode assumeว่าทุกอย่างถูกหมด)
