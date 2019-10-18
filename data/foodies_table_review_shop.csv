@@ -1,0 +1,261 @@
+"review_shop_id","review_id","shop_id","member_id","parent_id","service_score","taste_score","value_score","appearance_score","environment_score","description","created_on","updated_on"
+"1","1","1","1","0","4","5","4","2","4","Review Shop Description Update","2019-05-24 06:17:17","2019-05-24 06:17:17"
+"2","2","2","4","0","5","1","5","1","5","<h2 class=""title"" style=""font-family: Kanit, sans-serif; outline: none; margin: 0px; padding: 15px 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-weight: inherit; font-stretch: inherit; font-size: 1.5rem; line-height: inherit; vertical-align: baseline; width: 759px; color: #454f63;"">3 ร้านส้มตำห้ามพลาด</h2>
+<div class=""desc"" style=""font-family: Pridi, serif; outline: none; margin: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; font-size: 16px; line-height: 1.5; vertical-align: baseline; letter-spacing: 0.2px; color: #454f63;"">เอาใจคอชาไทยย่านงามวงศ์วานที่ High Coffee Roaster คาเฟ่สไตล์มินิมอลที่เน้นเสิร์ฟกาแฟกับเบเกอรี ภายในตกแต่งแบบเรียบง่าย ใช้สีขาวและสีเงินเป็นหลักดูสะอาดตา และเลือกใช้กระจกบานใหญ่ทำให้ร้านดูกว้างและโปร่งมากขึ้น เอาใจคอชาไทยย่านงามวงศ์วานที่ High Coffee Roaster คาเฟ่สไตล์มินิมอลที่เน้นเสิร์ฟกาแฟกับเบเกอรี ภายในตกแต่งแบบเรียบง่าย ใช้สีขาวและสีเงินเป็นหลักดูสะอาดตา และเลือกใช้กระจกบานใหญ่ทำให้ร้านดูกว้างและโปร่งมากขึ้นเอาใจคอชาไทยย่านงามวงศ์วานที่ High Coffee Roaster คาเฟ่สไตล์มินิมอลที่เน้นเสิร์ฟกาแฟกับเบเกอรี ภายในตกแต่งแบบเรียบง่าย ใช้สีขาวและสีเงินเป็นหลักดูสะอาดตา และเลือกใช้กระจกบานใหญ่ทำให้ร้านดูกว้างและโปร่งมากขึ้น</div>
+<div class=""desc"" style=""font-family: Pridi, serif; outline: none; margin: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; font-size: 16px; line-height: 1.5; vertical-align: baseline; letter-spacing: 0.2px; color: #454f63;""><img src=""../static/upload/1558004513864.png"" alt=""ร้านส้มตำ"" width=""875"" height=""354"" /></div>
+<div class=""desc"" style=""font-family: Pridi, serif; outline: none; margin: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; font-size: 16px; line-height: 1.5; vertical-align: baseline; letter-spacing: 0.2px; color: #454f63;"">
+<table class=""spoil"" style=""outline: none; background-image: url('../static/images/spoil.svg'); background-repeat: no-repeat; background-size: 60px; padding: 10px 90px; background-position: 15px 50%; font-size: 12px; line-height: 23px; border: 1px dashed #efefef; width: 100%;"">
+<tbody>
+<tr>
+<td style=""padding-left: 90px; line-height: 5px; height: 50px;"">feel all good</td>
+</tr>
+</tbody>
+</table>
+<div style=""display: block; text-align: left;"">&nbsp;</div>
+<div style=""display: block; text-align: left;"">
+<table class=""banner_800_160"" style=""display: inline-block;"">
+<tbody>
+<tr>
+<td style=""width: 800px; height: 160px; background-color: #cccccc; text-align: center;"" width=""800px"" height=""160px"">800px*160px</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>&nbsp;</p>
+</div>","2019-05-24 06:17:17","2019-05-24 06:17:17"
+"3","2","6","4","0","1","1","1","1","1","<p><strong style=""margin: 0px; padding: 0px; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify; background-color: #ffffff;"">Lorem Ipsum</strong><span style=""font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify; background-color: #ffffff;"">&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span></p>","2019-05-24 06:17:17","2019-05-24 06:17:17"
+"4","3","2","4","0","5","5","3","3","5","<p><strong style=""margin: 0px; padding: 0px; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify; background-color: #ffffff;"">Lorem Ipsum</strong><span style=""font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify; background-color: #ffffff;"">&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span></p>
+<p><span style=""font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify; background-color: #ffffff;""><img src=""../static/upload/1558004763137.jpg"" alt="""" width=""888"" height=""465"" /></span></p>","2019-05-24 06:17:17","2019-05-24 06:17:17"
+"5","4","2","4","0","5","4","3","2","1","<p><strong>Lorem Ipsum<span style=""font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify; background-color: #ffffff;"">&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span></strong></p>
+<p><span style=""font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify; background-color: #ffffff;""><img src=""../static/upload/1558095961588.png"" alt=""shop"" /></span></p>","2019-05-24 06:17:17","2019-05-24 06:17:17"
+"6","11","17","1","0","1","1","1","1","1",,"2019-06-05 17:07:13","2019-06-05 17:07:13"
+"7","13","11","5","0","1","1","1","1","1",,"2019-06-06 14:32:09","2019-06-06 14:32:09"
+"8","14","21","5","0","4","3","4","3","5","<p>ทดสอบรีวิว</p>","2019-06-06 14:35:27","2019-06-06 14:35:27"
+"9","15","9","5","0","3","4","3","4","3","<p>ทดสอบร้าน&nbsp;<span style=""background-color: #ffffff; color: #454f63; font-family: Kanit, sans-serif; font-size: 16px;"">Fillets (ฟิลเล)</span></p>
+<table class=""spoil"" style=""outline: none; background-image: url('../static/images/spoil.svg'); background-repeat: no-repeat; background-size: 60px; padding: 10px 90px; background-position: 15px 50%; font-size: 12px; line-height: 23px; border: 1px dashed #efefef; width: 100%;"">
+<tbody>
+<tr>
+<td style=""padding-left: 90px; line-height: 5px; height: 50px;"">ทดสอบ</td>
+</tr>
+</tbody>
+</table>","2019-06-06 14:37:38","2019-06-06 14:37:38"
+"10","16","11","5","0","4","2","3","2","3","<p><img src=""null"" alt=""ทดสอบ"" /></p>
+<div style=""text-align: center; display: block;"">
+<table class=""banner_200_200"" style=""display: inline-block;"">
+<tbody>
+<tr>
+<td style=""width: 200px; height: 200px; background-color: #ccc; text-align: center;"" width=""200px"" height=""200px"">200px*200px</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>&nbsp;</p>
+<table class=""spoil"" style=""outline: none; background-image: url('../static/images/spoil.svg'); background-repeat: no-repeat; background-size: 60px; padding: 10px 90px; background-position: 15px 50%; font-size: 12px; line-height: 23px; border: 1px dashed #efefef; width: 100%;"">
+<tbody>
+<tr>
+<td style=""padding-left: 90px; line-height: 5px; height: 50px;"">ทดสอบ</td>
+</tr>
+</tbody>
+</table>","2019-06-06 14:52:29","2019-06-06 14:52:29"
+"11","17","3","9","0","1","1","1","1","1",,"2019-06-06 14:53:25","2019-06-06 14:53:25"
+"12","17","5","9","0","1","1","1","1","1","<p>kgd''aas<img src=""https://images.foodies.guru/undefined"" alt=""d"" /></p>
+<table class=""spoil"" style=""outline: none; background-image: url('../static/images/spoil.svg'); background-repeat: no-repeat; background-size: 60px; padding: 10px 90px; background-position: 15px 50%; font-size: 12px; line-height: 23px; border: 1px dashed #efefef; width: 100%;"">
+<tbody>
+<tr>
+<td style=""padding-left: 90px; line-height: 5px; height: 50px;"">hhhh</td>
+</tr>
+</tbody>
+</table>
+<p>kkkk</p>
+<div style=""text-align: center; display: block;"">
+<table class=""banner_200_200"" style=""display: inline-block;"">
+<tbody>
+<tr>
+<td style=""width: 200px; height: 200px; background-color: #ccc; text-align: center;"" width=""200px"" height=""200px"">200px*200px</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>&nbsp;</p>
+<div class=""banner_800_160-wrapper"">
+<table class=""banner_800_160"" style=""display: inline-block;"">
+<tbody>
+<tr>
+<td style=""width: 800px; height: 160px; background-color: #ccc; text-align: center;"" width=""800px"" height=""160px"">800px*160</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>jhgfty</p>","2019-06-06 14:53:25","2019-06-06 14:53:25"
+"13","17","9","9","0","1","1","1","1","1",,"2019-06-06 14:53:25","2019-06-06 14:53:25"
+"14","18","10","5","0","3","3","3","3","3","<p>ทดสอบ</p>
+<p><img src=""null"" alt=""ทดสอบ"" /></p>","2019-06-06 14:58:56","2019-06-06 14:58:56"
+"15","21","4","5","0","3","1","1","1","1","<p><img src=""null"" alt=""พระ"" /></p>","2019-06-06 18:13:40","2019-06-06 18:13:40"
+"16","22","2","4","0","5","5","4","5","5","<p>very good</p>","2019-06-07 19:12:50","2019-06-07 19:12:50"
+"17","23","1","3","0","4","3","4","1","1","<p><strong>test</strong></p>","2019-06-08 12:35:36","2019-06-08 12:35:36"
+"18","24","4","5","0","3","2","3","4","2","<p><img src=""null"" alt=""วิว"" /></p>
+<p>&nbsp;</p>
+<p><span style=""color: #545454; font-family: arial, sans-serif; font-size: small; background-color: #ffffff;"">Promotion&nbsp;</span><strong style=""color: #6a6a6a; font-family: arial, sans-serif; font-size: small; background-color: #ffffff;"">Implant</strong><span style=""color: #545454; font-family: arial, sans-serif; font-size: small; background-color: #ffffff;"">&nbsp;with Ceramic Crown 49,500 Baht. By&nbsp;</span><strong style=""color: #6a6a6a; font-family: arial, sans-serif; font-size: small; background-color: #ffffff;"">Implant</strong><span style=""color: #545454; font-family: arial, sans-serif; font-size: small; background-color: #ffffff;"">&nbsp;Specialist and 3D&nbsp;</span><strong style=""color: #6a6a6a; font-family: arial, sans-serif; font-size: small; background-color: #ffffff;"">CT</strong><span style=""color: #545454; font-family: arial, sans-serif; font-size: small; background-color: #ffffff;"">-</span><strong style=""color: #6a6a6a; font-family: arial, sans-serif; font-size: small; background-color: #ffffff;"">Scan</strong><span style=""color: #545454; font-family: arial, sans-serif; font-size: small; background-color: #ffffff;"">. Standard Worldwide&nbsp;</span><strong style=""color: #6a6a6a; font-family: arial, sans-serif; font-size: small; background-color: #ffffff;"">Implant</strong><span style=""color: #545454; font-family: arial, sans-serif; font-size: small; background-color: #ffffff;"">&nbsp;System. Located in the heart of Bangkok. Near BTS Thong Lo. Standard Sterilization. Free Consultation. InvisalignDiamondProvider. Near BTS Thonglo.</span></p>","2019-06-09 09:51:08","2019-06-09 09:51:08"
+"19","28","1","3","0","5","5","5","5","5","<p>ทดสอบการีวิว</p>","2019-06-10 10:46:46","2019-06-10 10:46:46"
+"20","28","2","3","0","2","3","4","4","3","<p>ทดสอบร้านที่ 2</p>","2019-06-10 10:46:46","2019-06-10 10:46:46"
+"21","31","16","1","0","1","1","1","1","1",,"2019-06-11 15:23:09","2019-06-11 15:23:09"
+"22","32","1","1","0","1","1","1","1","1",,"2019-06-11 15:25:49","2019-06-11 15:25:49"
+"23","33","1","1","0","1","1","1","1","1",,"2019-06-11 19:02:21","2019-06-11 19:02:21"
+"24","34","16","1","0","1","1","3","2","1",,"2019-06-11 19:15:07","2019-06-11 19:15:07"
+"25","35","1","1","0","1","1","1","1","1","<p>warsfaewasfwe</p>","2019-06-11 19:51:41","2019-06-11 19:51:41"
+"26","36","16","1","0","3","1","4","3","1","<table class=""spoil"" style=""outline: none; background-image: url('../static/images/spoil.svg'); background-repeat: no-repeat; background-size: 60px; padding: 10px 90px; background-position: 15px 50%; font-size: 12px; line-height: 23px; border: 1px dashed #efefef; width: 90%;"">
+<tbody>
+<tr>
+<td style=""padding-left: 90px; line-height: 5px; height: 50px;"">ddddd</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2 style=""margin: 0px 0px 10px; padding: 0px; font-weight: 400; line-height: 24px; font-family: DauphinPlain; font-size: 24px; color: #000000; background-color: #ffffff;"">hat is Lorem Ipsum?</h2>
+<p style=""margin: 0px 0px 15px; padding: 0px; text-align: justify; color: #000000; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;""><strong style=""margin: 0px; padding: 0px;"">Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMa</p>
+<p style=""margin: 0px 0px 15px; padding: 0px; text-align: justify; color: #000000; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;"">&nbsp;</p>
+<p style=""margin: 0px 0px 15px; padding: 0px; color: #000000; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;""><img style=""display: block; margin-left: auto; margin-right: auto;"" src=""../static/upload/1560257599128.png"" alt=""we"" /></p>","2019-06-11 19:53:34","2019-06-11 19:53:34"
+"27","37","48","1","0","3","5","3","3","5","<p><img style=""display: block; margin-left: auto; margin-right: auto;"" src=""../static/upload/1560257767099.jpg"" alt=""e"" /></p>
+<p>&nbsp;</p>
+<h2 style=""margin: 0px 0px 10px; padding: 0px; font-weight: 400; line-height: 24px; font-family: DauphinPlain; font-size: 24px; color: #000000; background-color: #ffffff;"">hat is Lorem Ipsum?</h2>
+<p style=""margin: 0px 0px 15px; padding: 0px; text-align: justify; color: #000000; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;""><strong style=""margin: 0px; padding: 0px;"">Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMa</p>
+<p style=""margin: 0px 0px 15px; padding: 0px; text-align: justify; color: #000000; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;"">&nbsp;</p>
+<p style=""margin: 0px 0px 15px; padding: 0px; text-align: justify; color: #000000; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;"">&nbsp;</p>","2019-06-11 19:57:30","2019-06-11 19:57:30"
+"28","37","28","1","0","3","4","1","2","5","<h2 style=""margin: 0px 0px 10px; padding: 0px; font-weight: 400; line-height: 24px; font-family: DauphinPlain; font-size: 24px; color: #000000; background-color: #ffffff;"">hat is Lorem Ipsum?</h2>
+<p style=""margin: 0px 0px 15px; padding: 0px; text-align: justify; color: #000000; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;""><strong style=""margin: 0px; padding: 0px;"">Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMa</p>
+<p style=""margin: 0px 0px 15px; padding: 0px; text-align: justify; color: #000000; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;"">&nbsp;</p>
+<p style=""margin: 0px 0px 15px; padding: 0px; text-align: justify; color: #000000; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;"">&nbsp;</p>
+<p style=""margin: 0px 0px 15px; padding: 0px; color: #000000; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff;""><img style=""display: block; margin-left: auto; margin-right: auto;"" src=""../static/upload/1560257834831.png"" alt=""test"" width=""397"" height=""424"" /></p>","2019-06-11 19:57:30","2019-06-11 19:57:30"
+"29","38","1","1","0","1","4","1","3","1","<p>&nbsp; wesdfesdxfc</p>
+<p>&nbsp;</p>
+<p><img style=""display: block; margin-left: auto; margin-right: auto;"" src=""https://images.foodies.guru/a/1560259644305.jpg"" alt=""wers"" width=""624"" height=""335"" /></p>
+<h2 style=""margin: 0px 0px 10px; padding: 0px; font-weight: 400; line-height: 24px; font-family: DauphinPlain; font-size: 24px; color: #000000; background-color: #ffffff; text-align: center;"">hat is Lorem Ipsum?</h2>
+<p style=""margin: 0px 0px 15px; padding: 0px; color: #000000; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff; text-align: center;""><strong style=""margin: 0px; padding: 0px;"">Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMa</p>
+<p style=""margin: 0px 0px 15px; padding: 0px; color: #000000; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; background-color: #ffffff; text-align: center;"">&nbsp;</p>
+<table class=""spoil"" style=""outline: none; background-image: url('../static/images/spoil.svg'); background-repeat: no-repeat; background-size: 60px; padding: 10px 90px; background-position: 15px 50%; font-size: 12px; line-height: 23px; border: 1px dashed #efefef; width: 90%;"">
+<tbody>
+<tr>
+<td style=""padding-left: 90px; line-height: 5px; height: 50px;"">
+<h2 style=""margin: 0px 0px 10px; padding: 0px; font-weight: 400; line-height: 24px; font-family: DauphinPlain; font-size: 24px; color: #000000; background-color: #ffffff;"">&nbsp;</h2>
+<p style=""margin: 0px 0px 15px; padding: 0px; text-align: justify; color: #000000; font-size: 14px; background-color: #ffffff;""><strong>ewsdfrwsdtgredsxgverdfgv</strong></p>
+<p style=""margin: 0px 0px 15px; padding: 0px; text-align: justify; color: #000000; font-size: 14px; background-color: #ffffff;""><strong>ersdtgvresdgverdfg</strong></p>
+<p style=""margin: 0px 0px 15px; padding: 0px; text-align: justify; color: #000000; font-size: 14px; background-color: #ffffff;"">&nbsp;</p>
+<p style=""margin: 0px 0px 15px; padding: 0px; text-align: justify; color: #000000; font-size: 14px; background-color: #ffffff;""><strong>ersdg</strong></p>
+<p style=""margin: 0px 0px 15px; padding: 0px; text-align: justify; color: #000000; font-size: 14px; background-color: #ffffff;""><strong>ve</strong></p>
+<p style=""margin: 0px 0px 15px; padding: 0px; text-align: justify; color: #000000; font-size: 14px; background-color: #ffffff;""><strong>rdfgv</strong></p>
+<p style=""margin: 0px 0px 15px; padding: 0px; text-align: justify; color: #000000; font-size: 14px; background-color: #ffffff;""><strong>erdfg</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>","2019-06-11 20:28:11","2019-06-11 20:28:11"
+"30","39","36","1","0","3","4","5","5","4","<table class=""spoil"" style=""outline: none; background-image: url('../static/images/spoil.svg'); background-repeat: no-repeat; background-size: 60px; padding: 10px 90px; background-position: 15px 50%; font-size: 12px; line-height: 23px; border: 1px dashed #efefef; width: 90%;"">
+<tbody>
+<tr>
+<td style=""padding-left: 90px; line-height: 5px; height: 50px;"">หาร้านยากมากกกกกก ต้องถามยาม อยู่ในซอกลืบบบเบยยย&nbsp; &gt;M&lt;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><img style=""display: block; margin-left: auto; margin-right: auto;"" src=""../static/upload/1560332986400.jpg"" alt=""fuku"" /></p>
+<p><strong style=""margin: 0px; padding: 0px; color: #000000; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify; background-color: #ffffff;"">orem Ipsum</strong><span style=""color: #000000; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify; background-color: #ffffff;"">&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of</span></p>
+<p>&nbsp;</p>
+<p><strong style=""margin: 0px; padding: 0px; color: #000000; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify; background-color: #ffffff;"">orem Ipsum</strong><span style=""color: #000000; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify; background-color: #ffffff;"">&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of</span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong style=""margin: 0px; padding: 0px; color: #000000; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify; background-color: #ffffff;"">orem Ipsum</strong><span style=""color: #000000; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify; background-color: #ffffff;"">&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of</span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong style=""margin: 0px; padding: 0px; color: #000000; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify; background-color: #ffffff;"">orem Ipsum</strong><span style=""color: #000000; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify; background-color: #ffffff;"">&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of</span></p>","2019-06-12 16:50:47","2019-06-12 16:50:47"
+"31","40","36","3","0","5","4","4","5","5","<table class=""spoil"" style=""outline: none; background-image: url('../static/images/spoil.svg'); background-repeat: no-repeat; background-size: 60px; padding: 10px 90px; background-position: 15px 50%; font-size: 12px; line-height: 23px; border: 1px dashed #efefef; width: 90%;"">
+<tbody>
+<tr>
+<td style=""padding-left: 90px; line-height: 5px; height: 50px;"">
+<p><span style=""color: #000000; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify; background-color: #ffffff;"">is simply dummy text of the printing and typesetti wsad</span>is simply dummy text of the printing and typesettivwaszfcaszfc</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>wasfe</p>
+<p>&nbsp;</p>
+<p><span style=""color: #000000; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify; background-color: #ffffff;"">is simply dummy text of the printing and typesetti</span><span style=""background-color: #ffffff; color: #000000; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify;"">is simply dummy text of the printing and typesetti</span><span style=""background-color: #ffffff; color: #000000; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify;"">is simply dummy text of the printing and typesetti</span><span style=""background-color: #ffffff; color: #000000; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify;"">is simply dummy text of the printing and typesetti</span><span style=""background-color: #ffffff; color: #000000; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify;"">is simply dummy text of the printing and typesetti</span><span style=""background-color: #ffffff; color: #000000; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify;"">is simply dummy text of the printing and typesetti</span><span style=""background-color: #ffffff; color: #000000; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify;"">is simply dummy text of the printing and typesetti</span><span style=""background-color: #ffffff; color: #000000; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify;"">is simply dummy text of the printing and typesetti</span><span style=""background-color: #ffffff; color: #000000; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify;"">is simply dummy text of the printing and typesetti</span><span style=""background-color: #ffffff; color: #000000; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify;"">is simply dummy text of the printing and typesetti</span><span style=""background-color: #ffffff; color: #000000; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify;"">is simply dummy text of the printing and typesetti</span><span style=""background-color: #ffffff; color: #000000; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify;"">is simply dummy text of the printing and typesetti</span></p>
+<p>&nbsp;</p>
+<p><span style=""background-color: #ffffff; color: #000000; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify;""><img style=""display: block; margin-left: auto; margin-right: auto;"" src=""https://images.foodies.guru/a/1560334648400.jpg"" alt=""fuku"" /></span></p>
+<p>&nbsp;</p>
+<p style=""text-align: start;""><span style=""background-color: #ffffff; text-align: justify;""><span style=""color: #000000;""><span style=""font-size: 14px;"">fuku</span></span></span><span style=""color: #000000;""><span style=""font-size: 14px;"">fukufukufukufukufukufukufukufukufukufukufukufukufukufukufukufukufukufukufukufukufukufukufukufukufukufukufukufukufukufukufukufukufukufukufukufukufukufukufukufukufukufukufukufukufukufukufukufuku</span></span></p>
+<p style=""text-align: start;"">&nbsp;</p>
+<div class=""banner_800_160-wrapper"" style=""text-align: center;"">
+<table class=""banner_800_160"" style=""display: inline-block;"">
+<tbody>
+<tr>
+<td style=""width: 800px; height: 160px; background-color: #ccc; text-align: center;"" width=""800px"" height=""160px"">800px*160</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+</div>
+<p style=""text-align: start;"">&nbsp;</p>","2019-06-12 17:18:12","2019-06-12 17:18:12"
+"32","41","16","1","0","1","1","1","1","1","<table class=""spoil"" style=""outline: none; background-image: url('../static/images/spoil.svg'); background-repeat: no-repeat; background-size: 60px; padding: 10px 90px; background-position: 15px 50%; font-size: 12px; line-height: 23px; border: 1px dashed #efefef; width: 90%;"">
+<tbody>
+<tr>
+<td style=""padding-left: 90px; line-height: 5px; min-height: 50px; display: block;"">
+<p>wesfcwesfcewszfc</p>
+<p>wasfdcewsfcwesfcwesfcwesf</p>
+<p>wqasrdxweasf</p>
+</td>
+</tr>
+</tbody>
+</table>","2019-06-12 17:45:01","2019-06-12 17:45:01"
+"33","42","10","1","0","1","1","1","2","1",,"2019-06-12 17:48:43","2019-06-12 17:48:43"
+"34","43","1","5","0","3","4","2","4","3","<p><span style=""color: #121212; font-family: 'Guardian Text Egyptian Web', Georgia, serif; font-size: 17px; font-variant-ligatures: common-ligatures; background-color: #ffffff;"">Repetition leads, inevitably, to expectation. I have sat at so many tables, being told so often that this particular establishment has a whole small sharing plate thing going on, as if they&rsquo;d decided to make wheels round rather than irritatingly square, that I now assume this is what a restaurant meal is: a parade of small things, which diners must fight over passive-aggressively, in a desperate attempt to get an equal cut.</span></p>
+<p><span style=""color: #121212; font-family: 'Guardian Text Egyptian Web', Georgia, serif; font-size: 17px; font-variant-ligatures: common-ligatures; background-color: #ffffff;""><img style=""display: block; margin-left: auto; margin-right: auto;"" src=""https://images.foodies.guru/a/1560413983236.png"" alt=""ทดสอบ"" /></span></p>","2019-06-13 15:20:09","2019-06-13 15:20:09"
+"43","0","4","1","35","0","0","0","0","0",,"2019-06-19 17:25:06","2019-06-19 17:25:06"
+"44","0","4","1","35","0","0","0","0","0",,"2019-06-19 17:26:17","2019-06-19 17:26:17"
+"45","0","4","1","35","0","0","0","0","0",,"2019-06-19 17:28:33","2019-06-19 17:28:33"
+"46","0","4","1","35","0","0","0","0","0","yrd","2019-06-19 17:29:32","2019-06-19 17:29:32"
+"48","0","4","1","0","0","0","0","0","0","tr","2019-06-19 17:49:05","2019-06-19 17:49:05"
+"49","0","4","1","0","0","0","0","0","0","dd","2019-06-19 18:12:50","2019-06-19 18:12:50"
+"50","0","4","1","36","0","0","0","0","0","test","2019-06-19 18:23:18","2019-06-19 18:23:18"
+"53","0","4","1","35","0","0","0","0","0","reply","2019-06-19 18:24:33","2019-06-19 18:24:33"
+"57","0","4","1","36","0","0","0","0","0","ddd","2019-06-19 18:35:05","2019-06-19 18:35:05"
+"58","0","4","1","36","0","0","0","0","0","ddd","2019-06-19 18:35:46","2019-06-19 18:35:46"
+"63","0","1","1","62","0","0","0","0","0","agreee","2019-06-19 19:19:08","2019-06-19 19:19:08"
+"64","0","2","1","59","0","0","0","0","0","ddddd","2019-06-19 19:59:34","2019-06-19 19:59:34"
+"65","0","2","1","59","0","0","0","0","0","rrrr","2019-06-19 19:59:46","2019-06-19 19:59:46"
+"67","44","1","8","0","3","2","3","4","2",,"2019-06-20 10:46:53","2019-06-20 10:46:53"
+"68","0","9","1","0","0","0","0","0","0","test","2019-06-20 12:55:36","2019-06-20 12:55:36"
+"69","0","3","1","0","0","0","0","0","0","test","2019-06-20 13:47:07","2019-06-20 13:47:07"
+"80","0","2","1","0","0","0","0","0","0","uu","2019-06-21 00:06:54","2019-06-21 00:06:54"
+"81","0","2","1","0","0","0","0","0","0","าาา","2019-06-21 00:20:54","2019-06-21 00:20:54"
+"82","0","2","1","0","0","0","0","0","0","สสส","2019-06-21 00:20:58","2019-06-21 00:20:58"
+"83","0","2","1","0","0","0","0","0","0","ววว","2019-06-21 00:21:02","2019-06-21 00:21:02"
+"84","0","2","1","0","0","0","0","0","0","wersf","2019-06-21 00:28:00","2019-06-21 00:28:00"
+"85","0","2","1","80","0","0","0","0","0","jjj","2019-06-21 00:31:28","2019-06-21 00:31:28"
+"92","0","1","1","0","0","0","0","0","0","3tf","2019-06-21 00:38:29","2019-06-21 00:38:29"
+"93","0","1","1","0","0","0","0","0","0","wr","2019-06-21 00:38:32","2019-06-21 00:38:32"
+"94","0","1","1","90","0","0","0","0","0","re","2019-06-21 00:41:18","2019-06-21 00:41:18"
+"95","46","65038","1","0","1","1","1","1","1",,"2019-06-21 07:18:11","2019-06-21 07:18:11"
+"96","47","65039","1","0","3","5","3","4","3","<p>33333</p>
+<p>&nbsp;</p>
+<p><img style=""display: block; margin-left: auto; margin-right: auto;"" src=""../static/upload/1561078383835.jpg"" alt=""3qw"" /></p>","2019-06-21 07:53:18","2019-06-21 07:53:18"
+"97","48","65040","1","0","1","1","1","1","1","<p>erfd3ewrf</p>","2019-06-21 08:06:15","2019-06-21 08:06:15"
+"98","0","31","1","0","0","0","0","0","0","good","2019-06-21 08:38:25","2019-06-21 08:38:25"
+"102","0","31","1","101","0","0","0","0","0","ddd","2019-06-21 08:41:47","2019-06-21 08:41:47"
+"107","49","1","1","0","4","3","3","5","4","<p style=""text-align: center;""><img src=""../static/upload/1561081904039.png"" alt=""tedt"" /></p>","2019-06-21 08:51:59","2019-06-21 08:51:59"
+"108","0","1","1","92","0","0","0","0","0","te","2019-06-21 11:23:12","2019-06-21 11:23:12"
+"109","50","65041","1","0","5","3","5","4","5","<p><img style=""display: block; margin-left: auto; margin-right: auto;"" src=""https://images.foodies.guru/a/1561104399543.jpg"" alt=""test"" /></p>
+<p>&nbsp;</p>
+<p><img style=""display: block; margin-left: auto; margin-right: auto;"" src=""https://images.foodies.guru/a/1561104421995.png"" alt=""test"" /></p>","2019-06-21 15:07:19","2019-06-21 15:07:19"
+"131","0","65041","1","0","4","3","5","4","5","ffff","2019-06-21 16:37:04","2019-06-21 16:37:04"
+"133","0","65041","1","0","3","3","4","2","3","wqads","2019-06-21 16:41:02","2019-06-21 16:41:02"
+"134","0","1","1","0","2","4","3","4","3","test ","2019-06-21 17:14:24","2019-06-21 17:14:24"
+"135","0","1","1","0","4","2","3","4","2","erfe","2019-06-21 17:15:44","2019-06-21 17:15:44"
+"136","0","1","1","92","0","0","0","0","0","esdgreg","2019-06-21 17:17:28","2019-06-21 17:17:28"
+"137","0","1","1","0","0","0","0","0","0","sdg","2019-06-21 17:55:44","2019-06-21 17:55:44"
+"138","0","1","1","0","0","0","0","0","0","esf","2019-06-21 17:56:13","2019-06-21 17:56:13"
+"139","0","2","1","0","0","0","0","0","0","tes","2019-06-21 17:57:00","2019-06-21 17:57:00"
+"141","0","4","1","0","0","0","0","0","0","eryg","2019-06-21 17:59:03","2019-06-21 17:59:03"
+"142","0","4","1","0","0","0","0","0","0","fhf","2019-06-21 17:59:15","2019-06-21 17:59:15"
+"143","0","4","1","48","0","0","0","0","0","test","2019-06-21 18:00:09","2019-06-21 18:00:09"

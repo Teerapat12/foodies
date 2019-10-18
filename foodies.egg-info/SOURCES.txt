@@ -1,0 +1,9 @@
+README.md
+setup.py
+foodies/shop_ranker.py
+foodies.egg-info/PKG-INFO
+foodies.egg-info/SOURCES.txt
+foodies.egg-info/dependency_links.txt
+foodies.egg-info/not-zip-safe
+foodies.egg-info/requires.txt
+foodies.egg-info/top_level.txt

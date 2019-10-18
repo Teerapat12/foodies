@@ -8,8 +8,9 @@ setup(name='foodies',
       author_email='teerapat.time12@gmail.com',
       license='MIT',
       packages=[
-          'foodies',
-          'pandas',
-          'numpy'
+          'foodies'
       ],
+      install_requires=[
+          'pandas'
+      ],  # Optional
       zip_safe=False)
